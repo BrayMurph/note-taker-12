@@ -1,1 +1,13 @@
-[]
+[
+  2,
+  {
+    "title": "To laundry",
+    "text": "Need to do laundry between 8-9 pm",
+    "id": 0
+  },
+  {
+    "title": "Homework",
+    "text": "Homework needs to be done before 11:59 pm on June 7th.",
+    "id": 1
+  }
+]
